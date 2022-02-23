@@ -272,9 +272,13 @@ a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; co
 }
 /* Intro Section */
 #intro {
-    background-color: #38A5DB;
+    background-color: #fff;
     padding: 5% 0;
-    color: #ffffff;
+    color: #909090;
+    text-align: center;
+}
+#intro h1 {
+    color: #909090;
     text-align: center;
 }
 #intro img.intro-logo {
@@ -360,14 +364,14 @@ h4.media-heading {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #FFF;
 }
-/* About Us */
-#about {
+/* whoami Us */
+#whoami {
     background: #38A5DB;
     color:#fff;
     padding:80px 0;
 }
 
-#about h1 {
+#whoami h1 {
     color:#fff;
     font-size:36px;
     line-height:42px;
@@ -375,34 +379,34 @@ h4.media-heading {
     margin-bottom:24px;
     position:relative;
 }
-#about h2, #about h5 {
+#whoami h2, #whoami h5 {
     color:#fff;
 
 	}
-#about p {
+#whoami p {
     font-size: 18px;
     line-height:36px;
     font-weight:300;
     margin-bottom: 8px;
 }
 
-#about a:hover{
+#whoami a:hover{
     text-decoration:underline;
 } 
 
-#about .btn-theme.transparent {
+#whoami .btn-theme.transparent {
     font-size:18px;
     text-decoration:none;
 }
 
-#about img {
+#whoami img {
     box-shadow:12px 0px 0px 12px rgba(255,255,255,0.2),
                 -12px 0px 0px 12px rgba(255,255,255,0.2);
 }
 
 
 
-#about { padding: 40px 0 }
+#whoami { padding: 40px 0 }
 .gray-bg {}
 .img-wrap .profile-img {
     position: relative;
@@ -414,11 +418,11 @@ h4.media-heading {
     bottom: -10px;
     left: 50px;
 }
-.about-right-content { padding: 0;}
-.about-left-content { padding-bottom: 60px }
-.about-left-content h2,
-.about-left-content h2 small { color: #333 }
-.about-left-content h2 small { font-weight: 300 }
+.whoami-right-content { padding: 0;}
+.whoami-left-content { padding-bottom: 60px }
+.whoami-left-content h2,
+.whoami-left-content h2 small { color: #333 }
+.whoami-left-content h2 small { font-weight: 300 }
 ul.social li a.fa {
     background: #FFCC32;
     width: 50px;
