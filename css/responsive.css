@@ -71,7 +71,7 @@
 	.slider .content-heading p.lead { margin-bottom: 20px; }
 	.slider .carousel-indicators { bottom: 30px; }
 }
-@media (max-width: 603px) { 
+@media (max-width: 603px) {
 	.slider a.goto-btn { display: none;}
 	.ipad-wrapper .app-wrap {left: 16%;}
 	#footer .pull-left,
@@ -82,6 +82,7 @@
 }
 
 @media (max-width: 460px) {
+	h2 { font-size: 20px; margin-bottom: 30px;}
 	.gray-bg .vline {
 	    left: 15%;
 	}
