@@ -1,42 +1,40 @@
-THEME: Cachet - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
+Bootstrap Responsive Template
+
+Johndoe Portfolio Resume Bootstrap Template is clean multi purpose template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer’s portfolio. This is a responsive web template you can use for personal portfolio’s websites to showcase your work and CV or Resume template. This template is fully responsive and mobile ready. It has the ability to function faultlessly on all types of browsers and modern devices and adapts suitably on small, big or wide screen resolutions.This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
 
 
-CREDITS:
+Key features
+-------------
+Twitter Bootstrap 3.3.1
+Clean & Developer-friendly HTML5 and CSS3 code
+100% Responsive Layout Design
+One Page
+Multipurpose theme
+Google Fonts Support
+Font Awesome 
+Smooth Scrolling 
+Fully Customizable
+Contact Form
 
-Bootstrap
-http://getbootstrap.com/
 
-jQuery
-http://jquery.com/
+Credits :
+-------
+=> Design and developed: "WebThemez"  http://webthemez.com
+=> Photos used in template: **Unsplash** - http://unsplash.com
+=> For more free web themes: http://webthemez.com
+=> Framework : http://getbootstrap.com
 
-Google Fonts
-https://www.google.com/fonts/
 
-Icomoon
-https://icomoon.io/app/
+Important Note:
+---------------
+To remove backlink from the template, you need to donate to remove the backlink from the template.
+Any question contact us: webthemez@gmail.com
 
-Demo Images
-https://unsplash.com
 
-WayPoints
-http://imakewebthings.com/waypoints/
+License :
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-Animate.css
-https://daneden.github.io/animate.css/
 
-Slick Slider
-https://kenwheeler.github.io/slick/
-
-FontAwesome
-https://fontawesome.com/
-
-Ionicons
-https://ionicons.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Video
+Note:
+All images user here is for demo purpose only, we are not responsible for any copyrights.
