@@ -105,6 +105,17 @@ a:hover {
   opacity: 0.7;
 }
 
+.overlay-mf-experiences {
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0px;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.7;
+}
+
 .paralax-mf {
   position: relative;
   padding: 8rem 0;
