@@ -116,48 +116,42 @@
                   </li>
                   <li>
                     <span class="bi bi-calendar"></span>
-                    <a href="#">2022</a>
+                    <a href="#">2023</a>
                   </li>
                 </ul>
               </div>
               <div class="article-content">
 
                 <p>
-                  This master project is part of the <b>Image Processing</b> course carried out in the <b>Swiss Joint Master in Computer Science</b>.
-                </p>
-                
-                <p>
-                  The goal of this project is to recognize and segment bones in x-ray images of hands.
-                  The main systems in use today make use of machine learning techniques aimed at
-                  recognizing these structures. Here, we wanted to implement another strategy, trying
-                  to understand which of the many direct techniques are more appropriate in such a situation.  
+                  This master project is part of the <b>Social Media Analytics</b> course carried out in the <b>Swiss Joint Master in Computer Science</b>.
                 </p>
 
                 <p>
-                  The algorithm we built consists of 3 parts. In the first we preprocess the image to
-                  create a mask that identifies areas of the image containing parts of bone. This is
-                  done by applying a Discrete Fourier Transform to the image to bring it from the
-                  spatial domain to the frequency domain. Here, we apply a high-pass Butterworth
-                  transformation, to remove the parts of the image with lower frequency, that correspond
-                  to the skin of the hand.
+                  In this project, I analyze the collaborations between artists on Spotify to uncover hidden patterns in the music industry. Using community
+                  detection algorithms, I identify clusters of artists and analyze the genres within each group. I also examine influential nodes, connections
+                  between clusters, and their peculiar musical shades. The analysis provides insights into how music is created and evolves through
+                  collaboration and offers a better understanding of how collaborations shape music.
                 </p>
                 
-                <p>
-                  Once we have this mask, we apply it back to the original image, thus getting rid
-                  of the parts of the hand that don't interest us.
+                <!-- <p>
+                  Louvain algorithm is used to identify clusters of artists based on their collaborations. Louvain is good
+                  because of its relatively easy complexity compared to other clustering algorithms.
                 </p>
 
                 <p>
-                  At this point, we apply an edge detection algorithm to better recognize the edges
-                  of the bones in this dataset. This algorithm is based on the Canny Edge Detector,
-                  which is known to be promising in recognizing edges. However, we have modified it
-                  to better process our images.
-                </p>
+                  Then, I labeled each cluster as the most frequent genre inside each particular cluster.
+                  This way, we can refer to each cluster with a particular genre-label.
+                </p> -->
+
+                <!-- <p>
+                  At this point, different alaysis are performed. I started by considering the whole network, with some more
+                  general statistics such as the distribution of community-genres
+                </p> -->
                 
                 <p>
-                  The results obtained are very good. Being a very complex task, we believe that
-                  the algorithm we developed can be a good starting point for more intense
-                  and targeted processing.
+                  The results obtained are very interesting and consistent with the expectations. They even
+                  allow to discover some hidden and inherent patterns, not visible at a first sight.
+                  This project can be considered a good starting point for more intense analysis and further developments.
                 </p>
 
                 <!-- <blockquote class="blockquote">
@@ -177,11 +171,15 @@
               <div class="sidebar-content">
                 <ul class="list-sidebar">
                   <li>
-                    <a href="./assets/docs/Jacopo-Caratti-Master-project-xray-bones-segmentation-part1.pdf" target="_blank">Presentation 1<span class="bi bi-file-earmark-pdf-fill"></span></a>
+                    <a href="./assets/docs/Jacopo-Caratti-Master-Project-Spotify-Featuring-Artists-Analysis-Report" target="_blank">Report<span class="bi bi-file-earmark-pdf-fill"></span></a>
                   </li>
                   <li>
-                    <a href="./assets/docs/Jacopo-Caratti-Master-project-xray-bones-segmentation-part2.pdf" target="_blank">Presentation 2<span class="bi bi-file-earmark-pdf-fill"></span></a>
+                    <a href="./assets/docs/Jacopo-Caratti-Master-Project-Spotify-Featuring-Artists-Analysis-Presentation1" target="_blank">Presentation 1<span class="bi bi-file-earmark-pdf-fill"></span></a>
                   </li>
+                  <li>
+                    <a href="./assets/docs/Jacopo-Caratti-Master-Project-Spotify-Featuring-Artists-Analysis-Presentation2" target="_blank">Presentation 2<span class="bi bi-file-earmark-pdf-fill"></span></a>
+                  </li>
+
                 </ul>
               </div>
             </div>
